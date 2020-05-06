@@ -1,5 +1,5 @@
 {
-  "name": "serverless-openapi",
+  "name": "@devmentegang/serverless-openapi",
   "version": "0.0.0-development",
   "description": "Serverless Framework Plugin for OpenAPI3",
   "main": "dist/index.js",
@@ -34,7 +34,8 @@
     "typescript": "^3.8.3"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
     "change-case": "^4.1.1",
