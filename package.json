@@ -34,7 +34,7 @@
     "typescript": "^3.8.3"
   },
   "publishConfig": {
-    "access": "restricted"
+    "access": "public"
   },
   "dependencies": {
     "change-case": "^4.1.1",
