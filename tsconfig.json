@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "lib": ["es2019"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": true,
+    "target": "es2019",
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
