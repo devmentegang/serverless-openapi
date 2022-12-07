@@ -30,7 +30,7 @@
     "@types/serverless": "^1.67.0",
     "aws-sdk": "^2.670.0",
     "semantic-release": "^17.0.7",
-    "serverless": "^1.69.0",
+    "serverless": "^3.25.1",
     "typescript": "^3.8.3"
   },
   "publishConfig": {
